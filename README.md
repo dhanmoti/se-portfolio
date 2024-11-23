@@ -33,8 +33,9 @@ Looking to bring my expertise in mobile development and leadership skills to con
 <br>
 
 # [Placeholder design patterns and its usages]
-Design patterns adds significant value if it is used as and when needed. Using it just because one knows this or that design patterns create new problems. I would say there is no need to solve a problem that does not exist.
-Here I will dive deep into design patterns I have used so far and the problems they solved.
+Design patterns add significant value when applied appropriately and as needed. However, using them simply for the sake of demonstrating knowledge of a particular design pattern can create unnecessary problems. In my opinion, there's no need to solve a problem that doesn't exist.
+<br>
+In this discussion, I will delve into the design patterns I have utilized so far and the specific problems they addressed.
 <br>
 <br>
 
